@@ -1,0 +1,10 @@
+
+.topcontainer{
+    color: white;
+    background: url(C:\Users\Dell\Downloads\new.jpg);
+    height: 100vh ;
+    background-size: cover;   
+    background-repeat: no-repeat;
+    background-position: center;
+    box-shadow: inset(0,0,0,200px);
+}
